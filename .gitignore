@@ -1,0 +1,13 @@
+# Dépendances (Backend ET Frontend)
+node_modules/
+**/node_modules/
+
+# Builds
+dist/
+build/
+
+# Environnement
+.env
+.env.local
+.DS_Store
+
