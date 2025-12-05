@@ -23,7 +23,7 @@ L'interface client utilise React.
 ```bash
 cd frontend
 npm install
-npm start
+npm run dev
 ```
 
 ## Architecture Technique
